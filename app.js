@@ -20,8 +20,6 @@ app.config(function($stateProvider, $urlRouterProvider){
 
 		.state('home.paragraph', {
         url: '/paragraph',
-        template: 'I could sure use a drink right now.'
-    })
-		
-		
-})
+        template: 'I like Japanese cars'
+		})	
+	})
